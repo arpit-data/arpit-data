@@ -18,20 +18,18 @@
 ###
 
 <h1 align="center">Hey there 👋, I'm Arpit Chaurasia</h1>
-
 ###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">
-I'm <b>Arpit Chaurasia</b>, currently working as a <b>Data Analyst at Tata Consultancy Services (TCS)</b>, where I transform raw datasets into insights, dashboards, and automated workflows that fuel business decisions.<br><br>
+I'm <b>Arpit Chaurasia</b>, currently working as a <b>Data Analyst at Tata Consultancy Services (TCS)</b>, where I transform raw datasets into insights, dashboards, and automated workflows that fuel business decisions.<br>
 
-I’m on a mission to go one level deeper into the world of data — exploring <b>data engineering, scalable pipelines, cloud data systems, and big-data architectures</b>. Every new skill feels like unlocking a fresh level in my data journey.<br><br>
+I’m on a mission to go one level deeper into the world of data — exploring <b>data engineering, scalable pipelines, cloud data systems, and big-data architectures</b>. Every new skill feels like unlocking a fresh level in my data journey.<br>
 
 - 🔭 Currently diving deeper into <b>data engineering</b> while sharpening my analyst expertise.<br>
 - 🚀 Passionate about building <b>efficient, automated, and scalable</b> data systems.<br>
 - 🌍 When I’m not working, I'm probably <b>traveling, exploring new places, or discovering new things</b> that spark curiosity.<br>
-- 🌐 And if life gives me enough time… I’d absolutely love to <b>become a polyglot</b> — languages fascinate me as much as technology does.<br><br>
+- 🌐 And if life gives me enough time… I’d absolutely love to <b>become a polyglot</b> — languages fascinate me as much as technology does.<br>
 
 Always learning. Always exploring. Always evolving. ✨
 </p>
