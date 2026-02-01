@@ -52,7 +52,7 @@ Always learning. Always exploring. Always evolving. ✨
 
 ---
 
-### 🛠 Languages & Tools (Data Analyst)
+### 🛠 Languages & Tools (Analyst)
 
 <div align="left">
 
