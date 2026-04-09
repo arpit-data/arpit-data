@@ -22,7 +22,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">
-I’m Arpit Chaurasia, working as a Business Analyst at Tata Consultancy Services (TCS), specializing in business analytics. I partner with stakeholders to capture requirements, define KPIs, and transform raw data into actionable insights, interactive dashboards, and automated solutions that enable data-backed business decisions.
+I’m Arpit Chaurasia, working as a Data & Business Analyst at Tata Consultancy Services (TCS), specializing in business analytics. I partner with stakeholders to capture requirements, define KPIs, and transform raw data into actionable insights, interactive dashboards, and automated solutions that enable data-backed business decisions.
   
 I’m on a mission to go one level deeper into the world of data - exploring <b>data engineering, scalable pipelines, cloud data systems, and big-data architectures</b>. Every new skill feels like unlocking a fresh level in my data journey.<br>
 
