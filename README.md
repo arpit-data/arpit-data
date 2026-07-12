@@ -22,18 +22,17 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">
-I’m Arpit Chaurasia, working as a Data & Business Analyst at Tata Consultancy Services (TCS), specializing in business analytics. I partner with stakeholders to capture requirements, define KPIs, and transform raw data into actionable insights, interactive dashboards, and automated solutions that enable data-backed business decisions.
-  
-I’m on a mission to go one level deeper into the world of data - exploring <b>data engineering, scalable pipelines, cloud data systems, and big-data architectures</b>. Every new skill feels like unlocking a fresh level in my data journey.<br>
+I'm Arpit Chaurasia, working as a Data Analyst at Tata Consultancy Services (TCS), specializing in turning raw data into business impact. I partner with stakeholders to capture requirements, define KPIs, and deliver actionable insights through interactive dashboards, statistical analysis, and AI-powered analytics — enabling smarter, data-backed decisions across the BFSI domain.
+
+I'm on a mission to go deeper into two worlds — <b>advanced analytics & data engineering</b> on one side, and <b>Generative AI & LLM-driven automation</b> on the other. Every new skill feels like unlocking a fresh level in my data journey.<br>
 
 - 🔭 Currently diving deeper into <b>data engineering</b> while sharpening my analyst expertise.<br>
 - 🚀 Passionate about building <b>efficient, automated, and scalable</b> data systems.<br>
-- 🌍 When I’m not working, I'm probably <b>traveling, exploring new places, or discovering new things</b> that spark curiosity.<br>
-- 🌐 And if life gives me enough time… I’d absolutely love to <b>become a polyglot</b> - languages fascinate me as much as technology does.<br>
+- 🌍 When I'm not working, I'm probably <b>traveling, exploring new places, or discovering new things</b> that spark curiosity.<br>
+- 🌐 And if life gives me enough time… I'd absolutely love to <b>become a polyglot</b> — languages fascinate me as much as technology does.<br>
 
 Always learning. Always exploring. Always evolving. ✨
 </p>
-
 ---
 
 ### 🏅 Certifications
